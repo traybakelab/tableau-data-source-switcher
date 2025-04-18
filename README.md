@@ -1,4 +1,4 @@
-# tableau-data-source-switcher
+# tableau-datasource-switcher
 
 This script switches data sources within a Tableau workbook by modifying its `.twb` file. It leverages the fact that `.twb` files are XML-based and can be parsed and edited as such.
 
